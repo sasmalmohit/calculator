@@ -1,6 +1,6 @@
-# apple_catalog
+# calculator
 
-A new Flutter project.
+A new simple and minimalistic but awesome calculator Flutter project
 
 ## Getting Started
 
